@@ -1,16 +1,13 @@
-### Hi there 👋
+# Welcome to my github account.
 
-<!--
-**malliapi/malliapi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Intoduction
+#### My name is Chris Malliapi. Pleased to have you on my github page, please follow me should you wish to.
 
-Here are some ideas to get you started:
+## Profile
+#### I am a full-stack developer and even though my focus has been on the front-end, I also possess strong leadership skills, back-end, architecture, devops as well as hard-ware hacking skills. I am proactive about learning and regularly attend community conferences. **I have a particular appreciation for visuals and usability and thus my career direction is focused towards enhancing these with the help of creative, UX and optimisation (A/B testing) teams.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### My responsibilities have included team management, leadership, client negotiation, hiring, requirements analysis, component design and implementation using TDD and BDD, code refactoring, and delivering application training to offshore locations.
+
+#### I possess close to 10 years of professional and freelance work experience, including experience working in E-commerce, corporate financial institutions and technology consultancies.
+
+#### I have graduated from University College London in 2008 with a 2:1 BSc(Hons) in Computer Science.
