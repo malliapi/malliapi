@@ -1,4 +1,4 @@
-# Welcome to my github account.
+# Welcome to my github account
 
 ## Intoduction
 #### My name is Chris Malliapi. Pleased to have you on my github page, please follow me should you wish to.
