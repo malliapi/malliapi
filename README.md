@@ -1,7 +1,4 @@
-# Welcome to my github account
-
-## Intoduction
-#### My name is Chris Malliapi. Pleased to have you on my github page, please follow me should you wish to.
+# Chris Malliapi
 
 ## Profile
 #### I am a full-stack developer and even though my focus has been on the front-end, I also possess strong leadership skills, back-end, architecture, devops as well as hard-ware hacking skills. I am proactive about learning and regularly attend community conferences. **I have a particular appreciation for visuals and usability and thus my career direction is focused towards enhancing these with the help of creative, UX and optimisation (A/B testing) teams.**
