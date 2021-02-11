@@ -7,3 +7,7 @@
 ### I possess close to 10 years of professional and freelance work experience, including experience working in E-commerce, corporate financial institutions and technology consultancies.
 
 ### I have graduated from University College London in 2008 with a 2:1 BSc(Hons) in Computer Science.
+
+## Language Skillset (from public repos)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&hide_title=true&layout=compact&hide=rust,glsl)](https://github.com/anuraghazra/github-readme-stats)
