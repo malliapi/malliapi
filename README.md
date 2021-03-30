@@ -10,4 +10,6 @@
 
 ## Language Skillset (from public repos)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&hide_title=true&layout=compact&hide=rust,glsl)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=malliapi)](https://github.com/anuraghazra/github-readme-stats)
