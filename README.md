@@ -12,6 +12,6 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api?username=malliapi)](https://github.com/anuraghazra/github-readme-stats)
-![Github Stats](https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=malliapi)](https://github.com/anuraghazra/github-readme-stats)
+![Github Stats](https://github.com/malliapi/github-stats-generator/blob/master/generated/overview.svg)
 
