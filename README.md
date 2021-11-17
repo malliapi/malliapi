@@ -15,4 +15,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=malliapi)](https://github.com/anuraghazra/github-readme-stats)
 ![Github Stats](https://github.com/malliapi/github-stats-generator/blob/master/generated/overview.svg)
-
+![Daily Dev Card](https://api.daily.dev/devcards/54804d73bdba46d592ca90c185bb18f8.png)
