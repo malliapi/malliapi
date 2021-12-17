@@ -14,5 +14,5 @@
 ## Language Skillset (from public repos)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=malliapi)](https://github.com/anuraghazra/github-readme-stats)
-[![Github Stats](https://github.com/malliapi/github-stats-generator/blob/master/generated/overview.svg)]
-[![Daily Dev Card]](<img src="https://raw.githubusercontent.com/malliapi/malliapi/main/devcard.svg" alt="devcards" width="100"/>)]
+[![Github Stats]](https://github.com/malliapi/github-stats-generator/blob/master/generated/overview.svg)
+[![Daily Dev Card]](<img src="https://raw.githubusercontent.com/malliapi/malliapi/main/devcard.svg" alt="devcards" width="100"/>)
