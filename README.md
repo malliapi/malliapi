@@ -11,10 +11,7 @@
 
 ### I have graduated from University College London in 2008 with a 2:1 BSc(Hons) in Computer BSc(Hons) Computer Science
 
-## Language Skillset (from public repos)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=malliapi)](https://github.com/anuraghazra/github-readme-stats)
-
-![Github Stats](https://raw.githubusercontent.com/malliapi/github-stats-generator/master/generated/overview.svg)
+## Statistics (from public sources)
 
 [<img src="https://raw.githubusercontent.com/malliapi/malliapi/main/devcard.svg" alt="devcards" width="200"/>](https://raw.githubusercontent.com/malliapi/malliapi/main/devcard.svg)
+![Github Stats](https://raw.githubusercontent.com/malliapi/github-stats-generator/master/generated/overview.svg)
