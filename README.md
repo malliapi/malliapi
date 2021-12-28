@@ -13,5 +13,7 @@
 
 ## Statistics (from public sources)
 
-[<img src="https://raw.githubusercontent.com/malliapi/malliapi/main/devcard.svg" alt="devcards" width="200"/>](https://raw.githubusercontent.com/malliapi/malliapi/main/devcard.svg)
-![Github Stats](https://raw.githubusercontent.com/malliapi/github-stats-generator/master/generated/overview.svg)
+[<img src="./images/devcard.svg" alt="devcards" width="200"/>](https://raw.githubusercontent.com/malliapi/malliapi/main/devcard.svg)
+
+![Github Stats Overview](./images/overview.svg)
+![Github Stats Languages](./images/languages.svg)
