@@ -5,6 +5,10 @@
 
 - Reach me at 07583687616 or **chris@malliapi.co.uk**
 
+- My CV is available to download [here](https://drive.google.com/file/d/1bkzSZz3kNmsu17huUzj2gMuYhiN56sww/view?usp=sharing)
+
+
+
 ### Profile
 
 I am a full-stack developer and even though my focus has been on the front-end, I also possess strong leadership skills, back-end, architecture and DevOps skills. I am proactive about learning and regularly attend community conferences. I have a particular appreciation for visuals and usability and thus my career direction is focused towards enhancing these with the help of creative, UX and optimisation (A/B testing) teams. I have recently completed a contract with appnovation where a wordpress HR management was replaced by building a UI component library and then utilised through a contentful nextjs application. I am also involved in other projects such as a greenfield project called Popncorn Girl Las Vegas which is a franchise of https://popcorngirlvegas.com. This project is still at early discovery stages in terms of tech stack and now has first draft designs to work with.
